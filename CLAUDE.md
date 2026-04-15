@@ -10,8 +10,7 @@
 
 ## Local Server
 - **Always serve on localhost** — never screenshot a `file:///` URL.
-- Start the Live server: serves the project root at `http://localhost:3000`)
-- `serve.mjs` lives in the project root. Start it in the background before taking any screenshots.
+- Start the Visual Studio Live server: serve the project root at `http://localhost:3000`)
 - If the server is already running, do not start a second instance.
 
 ## Output Defaults
